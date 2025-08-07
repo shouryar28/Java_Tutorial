@@ -1,0 +1,98 @@
+Here’s a **must-know IntelliJ IDEA shortcuts list** that will **boost your coding speed and productivity** like crazy:
+
+---
+
+## 🚀 **Essential IntelliJ Shortcuts (Windows/Linux | Mac)**
+
+### 1. **Duplicate Line**
+
+* `Ctrl + D` | `Cmd + D`
+
+### 2. **Delete Line**
+
+* `Ctrl + Y` | `Cmd + Backspace`
+
+### 3. **Move Line Up/Down**
+
+* `Shift + Alt + Up/Down` | `Shift + Option + Up/Down`
+
+### 4. **Comment/Uncomment Line**
+
+* **Single Line**: `Ctrl + /` | `Cmd + /`
+* **Block Comment**: `Ctrl + Shift + /` | `Cmd + Option + /`
+
+### 5. **Auto-Indent/Reformat Code**
+
+* `Ctrl + Alt + L` | `Cmd + Option + L`
+
+### 6. **Generate Code (Getters/Setters/Constructors etc.)**
+
+* `Alt + Insert` | `Cmd + N`
+
+### 7. **Quick Fix / Show Intention Actions**
+
+* `Alt + Enter` | `Option + Enter`
+
+### 8. **Go to Definition (Declaration)**
+
+* `Ctrl + B` or `Ctrl + Click` | `Cmd + B` or `Cmd + Click`
+
+### 9. **Search Everywhere (Classes, Files, Symbols, Actions)**
+
+* `Shift` (Double Press) | `Shift` (Double Press)
+
+### 10. **Find in File**
+
+* `Ctrl + F` | `Cmd + F`
+
+### 11. **Find in Path (Global Search)**
+
+* `Ctrl + Shift + F` | `Cmd + Shift + F`
+
+### 12. **Replace in File**
+
+* `Ctrl + R` | `Cmd + R`
+
+### 13. **Run Code**
+
+* `Shift + F10` | `Ctrl + R`
+
+### 14. **Debug Code**
+
+* `Shift + F9` | `Cmd + D`
+
+### 15. **Navigate to File**
+
+* `Ctrl + Shift + N` | `Cmd + Shift + O`
+
+### 16. **Navigate to Class**
+
+* `Ctrl + N` | `Cmd + O`
+
+### 17. **Navigate to Symbol (Method/Variable)**
+
+* `Ctrl + Alt + Shift + N` | `Cmd + Option + O`
+
+### 18. **Recent Files Popup**
+
+* `Ctrl + E` | `Cmd + E`
+
+### 19. **Switch Between Tabs (Recent Edited Files)**
+
+* `Ctrl + Tab` | `Ctrl + Tab`
+
+### 20. **Run Context Configuration (Smart Run)**
+
+* `Ctrl + Shift + F10` | `Ctrl + Shift + R`
+
+---
+
+### Pro Tip:
+
+* You can view and modify shortcuts from:
+  **File > Settings > Keymap** (Windows/Linux)
+  **IntelliJ IDEA > Preferences > Keymap** (Mac)
+
+---
+
+Do you want me to give you a **PDF Cheat Sheet of these IntelliJ Shortcuts?** 🔥

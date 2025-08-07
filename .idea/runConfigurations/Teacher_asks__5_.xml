@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Teacher_asks (5)" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="Teacher_asks" />
+    <module name="Java Tutorial" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="main" run_configuration_type="Application" />
+    </method>
+  </configuration>
+</component>
